@@ -6,7 +6,7 @@ Parameter Sets;
 
 For DCCM;
 
-Level delta : Help you to decide cross-correlation__
+Level delta : Help you to decide cross-correlation\
 Residue Number : Which residue you would like to highlight on your plot
 
 For Solvnet;
